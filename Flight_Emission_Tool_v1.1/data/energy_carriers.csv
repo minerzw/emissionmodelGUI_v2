@@ -1,0 +1,18 @@
+Name,Conversion_Metric,Reference,Upstream_CO2,Upstream_non_CO2,Combustion_CO2,Combustion_non_CO2,Notes
+Jet-A1,GWP_100,"(Lee, 2021)",11.9,2.4,73.2,51.24,
+Jet-A1,GWP_100_star,"(Lee, 2021)",11.9,2.4,73.2,146.4,recommended
+Jet-A1,GWP_100,"(Dray, 2022)",11.9,2.4,73.2,30.8,
+Low-cost biofuels,GWP_100,"(Dray, 2022)",-56.95,12.2,70.4,23.7,range available
+High-cost biofuels,GWP_100,"(Dray, 2022)",-60.9,5.9,70.4,23.7,range available
+Power-to-liquids,GWP_100,"(Dray, 2022)",-70.4,0,70.4,23.7,range available
+Low-cost SLNG,GWP_100,"(Dray, 2022)",-66.05,-20.4,56.4,39.1,range available
+High-cost SLNG,GWP_100,"(Dray, 2022)",-56.4,6.95,56.4,35.1,range available
+Liquid Hydrogen,GWP_100,"(Dray, 2022)",0,0,0,35.1,range available
+Electricity,GWP_100,"(Dray, 2022)",0,0,0,0,
+Low-cost biofuels,GWP_100_star,"(Lee, 2021 and Dray, 2022)",-56.95,12.2,70.4,112.65,range available
+High-cost biofuels,GWP_100_star,"(Lee, 2021 and Dray, 2022)",-60.9,5.9,70.4,112.65,range available
+Power-to-liquids,GWP_100_star,"(Lee, 2021 and Dray, 2022)",-70.4,0,70.4,112.65,range available
+Low-cost SLNG,GWP_100_star,"(Lee, 2021 and Dray, 2022)",-66.05,-20.4,56.4,185.85,range available
+High-cost SLNG,GWP_100_star,"(Lee, 2021 and Dray, 2022)",-56.4,6.95,56.4,166.84,range available
+Liquid Hydrogen,GWP_100_star,"(Lee, 2021 and Dray, 2022)",0,0,0,166.84,range available
+Electricity,GWP_100_star,"(Lee, 2021 and Dray, 2022)",0,0,0,0,
